@@ -36,7 +36,7 @@ Key benefits include:
 From git root directory, run
 
 ```commandline
-kubectl apply -k config/crd/bases
+kubectl apply -f config/crd/bases
 ```
 
 
